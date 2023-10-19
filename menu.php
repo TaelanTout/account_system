@@ -118,7 +118,7 @@
 </div>
 <hr>
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 27%;" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100">27% de HACK</div>
+  <div class="progress-bar" role="progressbar" style="width: 27%;" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100">27% de HACK ?</div>
 </div>
 <hr>
 <div class="progress">
