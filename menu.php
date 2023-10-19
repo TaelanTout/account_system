@@ -118,13 +118,14 @@
 </div>
 <hr>
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 27%;" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100">27% de HACK ?</div>
+  <div class="progress-bar" role="progressbar" style="width: 27%;" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100">27% de HACK*</div>
 </div>
 <hr>
 <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 5%;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100">Et 5% de CSS</div>
 </div>
 <hr>
+<h4>*HACK étant un fichier PHP contenat uniquement du HTML</h4>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 </html
